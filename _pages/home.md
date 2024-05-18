@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Roy Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Roy Lab at West Texas A&M University &rarr; WTAMU."
 sitemap: false
 permalink: /
 ---
